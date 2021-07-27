@@ -1,5 +1,6 @@
 
-![Marcos Rennan](https://user-images.githubusercontent.com/48768985/127203805-cf260ee7-b848-4f74-94dc-0e36043c2255.png)
+### Olá! Boas vindas ;) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+![](https://komarev.com/ghpvc/?username=MarcosRennan&color=blue&style=flat)
 
 <center>
 <table>
@@ -10,6 +11,4 @@
 </table>
 </center> 
 
-### Olá! Boas vindas ;) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-![](https://komarev.com/ghpvc/?username=MarcosRennan&color=blue&style=flat)
