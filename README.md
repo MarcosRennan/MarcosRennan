@@ -11,3 +11,5 @@
 </center> 
 
 ### Olá! Boas vindas ;) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+![](https://komarev.com/ghpvc/?username=seu_usuário&color=blue&style=flat
