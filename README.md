@@ -1,6 +1,8 @@
 
 ### Olá! Boas vindas ;) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ![](https://komarev.com/ghpvc/?username=MarcosRennan&color=blue&style=flat)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosRennan&repo=Marcos-Rennan)](https://github.com/MarcosRennan/MarcosRennan)
+
 
 <center>
 <table>
