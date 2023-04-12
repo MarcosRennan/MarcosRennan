@@ -1,7 +1,7 @@
 
 <img align="right" height="590em" src="https://gist.githubusercontent.com/MarcosRennan/85a26318b686bca82abf5117bca560ff/raw/1dff187dbd7abfc9e6c25970b831e47d812df2ce/mobile.svg"/>
 
-## Olá!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Bem vindo ao meu espaço de estudo! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ![](https://komarev.com/ghpvc/?username=MarcosRennan&color=blue&style=flat)
 
 - ✨ Experiência na area de suporte ao usuário, como tambem migração de e-mails e servidores de arquivos.
@@ -15,7 +15,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ## 🗂️ &nbsp;Tecnologias confortáveis
 ![Sharepoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)&nbsp;
-
 ## &nbsp;📑 Software mais usados
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
